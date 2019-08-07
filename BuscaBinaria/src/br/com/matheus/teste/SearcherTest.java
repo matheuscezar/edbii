@@ -36,10 +36,16 @@ public class SearcherTest {
     @Test
     public void retornaMenos1SeElementoNEncontrado(){
         //Arrange
-        int [] itens = {10, 20, 30, 40, 50};
+        int [] itens = {10, 20, 30, 40};
         //Act
         int pos = searcher.search(itens,10);
+        int pos1 = searcher.search(itens,20);
+        int pos2 = searcher.search(itens,30);
+        int pos3 = searcher.search(itens,40);
         //Assert
-        assertEquals(-1, pos);
+        assertEquals(0, pos);
+        assertEquals(1, pos1);
+        assertEquals(2, pos2);
+        assertEquals(3, pos3);
     }
 }

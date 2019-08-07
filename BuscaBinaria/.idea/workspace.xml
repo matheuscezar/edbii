@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SearcherTest.retornaMenos1SeElementoNaoEncontrado">
+  <component name="RunManager" selected="JUnit.SearcherTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="br.com.matheus.Main" />
       <module name="BuscaBinaria" />
@@ -93,6 +93,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SearcherTest.retornaMenos1SeElementoNEncontrado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BuscaBinaria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.matheus.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.matheus.teste" />
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.teste.SearcherTest" />
+      <option name="METHOD_NAME" value="retornaMenos1SeElementoNEncontrado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SearcherTest.retornaMenos1SeElementoNaoEncontrado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BuscaBinaria" />
       <extension name="coverage">
@@ -114,12 +130,14 @@
       <item itemvalue="JUnit.SearcherTest" />
       <item itemvalue="JUnit.SearcherTest.retornaMenos1SeArrayEstaVazio" />
       <item itemvalue="JUnit.SearcherTest.retornaMenos1SeElementoNaoEncontrado" />
+      <item itemvalue="JUnit.SearcherTest.retornaMenos1SeElementoNEncontrado" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SearcherTest" />
+        <item itemvalue="JUnit.SearcherTest.retornaMenos1SeElementoNEncontrado" />
         <item itemvalue="JUnit.SearcherTest.retornaMenos1SeElementoNaoEncontrado" />
         <item itemvalue="JUnit.SearcherTest.retornaMenos1SeArrayEstaVazio" />
-        <item itemvalue="JUnit.SearcherTest" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1565136008652</updated>
-      <workItem from="1565136016679" duration="1973000" />
+      <workItem from="1565136016679" duration="3276000" />
     </task>
     <servers />
   </component>
