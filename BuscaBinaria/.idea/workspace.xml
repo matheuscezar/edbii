@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56e4acce-3eba-4cf4-88e9-28fc5df80fdc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1P4apsalMc6Scp9JOIGeTMobc32" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.matheus.teste" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.matheus" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SearcherTest.retornaMenos1SeElementoNaoEncontrado">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.Main" />
+      <module name="BuscaBinaria" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearcherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BuscaBinaria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.matheus.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.matheus.teste" />
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.teste.SearcherTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearcherTest.retornaMenos1SeArrayEstaVazio" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BuscaBinaria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.matheus.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.matheus.teste" />
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.teste.SearcherTest" />
+      <option name="METHOD_NAME" value="retornaMenos1SeArrayEstaVazio" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearcherTest.retornaMenos1SeElementoNaoEncontrado" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BuscaBinaria" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.matheus.teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.matheus.teste" />
+      <option name="MAIN_CLASS_NAME" value="br.com.matheus.teste.SearcherTest" />
+      <option name="METHOD_NAME" value="retornaMenos1SeElementoNaoEncontrado" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.SearcherTest" />
+      <item itemvalue="JUnit.SearcherTest.retornaMenos1SeArrayEstaVazio" />
+      <item itemvalue="JUnit.SearcherTest.retornaMenos1SeElementoNaoEncontrado" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SearcherTest.retornaMenos1SeElementoNaoEncontrado" />
+        <item itemvalue="JUnit.SearcherTest.retornaMenos1SeArrayEstaVazio" />
+        <item itemvalue="JUnit.SearcherTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56e4acce-3eba-4cf4-88e9-28fc5df80fdc" name="Default Changelist" comment="" />
+      <created>1565136008652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565136008652</updated>
+      <workItem from="1565136016679" duration="1973000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
